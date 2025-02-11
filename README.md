@@ -3,7 +3,7 @@
 
 Este é um projeto desafio da Digital Inivation One / DIO 💜
 
-Seu objetivo é desenvolver a lógica de programação simulando uma conta bancária através do terminal/console.
+Seu objetivo é desenvolver a lógica de programação, simulando uma conta bancária através do terminal/console.
 
 
 
