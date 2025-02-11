@@ -1,18 +1,21 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Desafio DIO
 
-## Folder Structure
+Este é um projeto desafio da Digital Inivation One / DIO 💜
 
-The workspace contains two folders by default, where:
+Seu objetivo é desenvolver a lógica de programação simulando uma conta bancária através do terminal/console.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# Olá, eu sou o Rodrigo! 👋
+
+
+## 🔗 Minhas redes sociais
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-souza-303572264/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pretorsouza)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ff007f)](https://www.instagram.com/rdpsouza/)
+
